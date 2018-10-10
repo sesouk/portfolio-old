@@ -20,7 +20,7 @@ body {
 } 
 
 .drawer {
-  padding: 0px 32px;
+  padding: 10px 32px 0px 32px;
   background: whitesmoke;
   color: black;
   font-family: 'Montserrat';
@@ -37,7 +37,7 @@ body {
 }
 
 .open {
-  top: 67px;
+  top: 60px;
 }
 
 .menu {
