@@ -2,7 +2,7 @@ body {
   padding: 0;
   margin: 0;
   background: whitesmoke;
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
 }
 
 .desktop {

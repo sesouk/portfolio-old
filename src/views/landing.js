@@ -14,7 +14,7 @@ const Landing = () => {
             Full-Stack Web Developer
           </h3>
           <p>
-          "I've always looked at "success" as a destination rather than a goal, that way it's not a matter of IF but a matter of WHEN"
+          "I've always looked at "success" as a destination rather than a goal, that way it's not a matter of IF but a matter of WHEN."
           </p>
           <p>
             -Tim Chantarangsu
